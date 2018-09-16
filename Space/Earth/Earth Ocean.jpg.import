@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/Earth Ocean.jpg-20c677f982425641c4936dc95143e4c4.s3tc.stex"
+path.etc2="res://.import/Earth Ocean.jpg-20c677f982425641c4936dc95143e4c4.etc2.stex"
+
+[deps]
+
+source_file="res://Space/Earth/Earth Ocean.jpg"
+dest_files=[ "res://.import/Earth Ocean.jpg-20c677f982425641c4936dc95143e4c4.s3tc.stex", "res://.import/Earth Ocean.jpg-20c677f982425641c4936dc95143e4c4.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/no_bptc_if_rgb=false
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=1
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
